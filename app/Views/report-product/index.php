@@ -25,7 +25,7 @@
                     <div class="col"> Kalimantan</div>
                     <div class="col"> jawa tengah</div>
                     <div class="col"> bali</div>
-                    
+
                  </div>
 
                  <div class="row">
@@ -70,6 +70,7 @@
     }
 
     $(document).ready(function(){
+        alert('saya minta maaf sebelumnya pak, karena masih belum siap, ini dikarenakan selama 2 hari ini saya banyak pekerjaan di kerjaan saya. ')
         tampilGrafik();
     })
 </script>
